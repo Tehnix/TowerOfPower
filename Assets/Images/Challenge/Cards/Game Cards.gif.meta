@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 7b15a026a0d7746539ef9278256ca90f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Game Cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 469
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_25
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 351
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_32
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_38
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 233
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_46
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_50
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: Game Cards_51
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 115
+        width: 81
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
